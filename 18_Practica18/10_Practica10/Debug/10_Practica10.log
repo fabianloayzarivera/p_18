@@ -1,0 +1,6 @@
+﻿  10_Practica10.cpp
+d:\master videogames\p_18\18_practica18\10_practica10\circle.h(12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  TList.cpp
+  10_Practica10.vcxproj -> D:\Master VideoGames\p_18\18_Practica18\Debug\10_Practica10.exe
